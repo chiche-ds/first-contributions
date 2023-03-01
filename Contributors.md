@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Chi Che] (https://github.com/chiche-ds)
 - [Siddhant Patil] (https://github.com/Sid-Pat)
 - [Soumik Saha] (https://github.com/soumik-saha)
 - [Privilege Mendes] (https://github.com/privilegemendes)
